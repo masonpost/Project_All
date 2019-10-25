@@ -1,0 +1,13 @@
+Date:24/10/19
+Description: Setting up and configuring of Apache server 
+
+1.Download the deb file of apache 
+2.chmod +x file
+3.Run 
+4.
+
+
+Another one
+1.sudo apt install apache2
+2.Check the server is running { sudo systemctl status apache2 }
+3.:
